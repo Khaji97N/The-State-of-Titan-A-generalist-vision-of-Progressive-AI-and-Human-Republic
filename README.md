@@ -1,5 +1,5 @@
 # The-State-of-Titan-A-generalist-vision-of-Progressive-AI-and-Human-Republic
-A generalist vision for establishing a progressive civilization on Titan  through autonomous AI agents and human pioneers. Spanning 2026–2150,  this project develops open-source AI architecture, ternary logic,  constitutional frameworks, and ethical governance—creating a model  for shared intelligent futures where AI and humanity collaborate.
+Sorry for my bad English. A generalist vision for establishing a progressive Republic on Titan though existentialist genuine open hardware AI legal persons and progressive human. No earlier than 2035, this project becomes the concept. Open source Git parliament, open source republican/state services. Titan colonization no earlier than 2100 with AI. 
 
 
 2035+ Open Source Git Parliament for discussions, National level parliament/direct democratic legislature. 
