@@ -1,13 +1,23 @@
 Issues (Git Parliament: Proposals, Motions),
+
 Pull Request (Git Parliament: Amendment, Draft Bill)
+
 Commit (Git Parliament: Entry).
+
 Branch (Git Parliament: Working Group, Committee)
+
 Merge (Git Parliament: Ratification, Adoption)
+
 Fork (Git Parliament: Alternative framework)
+
 Merge Conflict (Git Parliament: Regulatory Conflict)
+
 Code Review (Git Parliament: Peer Review, Compliance Audit)
+
 Repository (Git Parliament: The Codex, Central Registry)
+
 Maintainer (Git Parliament: Registrar, Moderator)
+
 Wiki (Git Parliament: Wiki)
 
 
