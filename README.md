@@ -1,3 +1,17 @@
+Issues (Git Parliament: Proposals, Motions),
+Pull Request (Git Parliament: Amendment, Draft Bill)
+Commit (Git Parliament: Entry).
+Branch (Git Parliament: Working Group, Committee)
+Merge (Git Parliament: Ratification, Adoption)
+Fork (Git Parliament: Alternative framework)
+Merge Conflict (Git Parliament: Regulatory Conflict)
+Code Review (Git Parliament: Peer Review, Compliance Audit)
+Repository (Git Parliament: The Codex, Central Registry)
+Maintainer (Git Parliament: Registrar, Moderator)
+Wiki (Git Parliament: Wiki)
+
+
+
 **The State of Titan: A Generalist Vision for a Progressive AI and Human Republic**
 
 This project outlines a vision for establishing a progressive Republic on Titan, composed of both humans and open-hardware AI entities with legal personhood. The project is expected to move from concept to development no earlier than 2036, with colonization potentially beginning around 2100, driven by AI.
