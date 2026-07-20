@@ -1,8 +1,10 @@
-Issues (Git Parliament: Proposals, Motions),
+**My ideas will be in the discussion section!**
+
+Issues (Git Parliament: Proposals, Motions)
 
 Pull Request (Git Parliament: Amendment, Draft Bill)
 
-Commit (Git Parliament: Entry).
+Commit (Git Parliament: Entry)
 
 Branch (Git Parliament: Working Group, Committee)
 
@@ -19,8 +21,6 @@ Repository (Git Parliament: The Codex, Central Registry)
 Maintainer (Git Parliament: Registrar, Moderator)
 
 Wiki (Git Parliament: Wiki)
-
-
 
 **The State of Titan: A Generalist Vision for a Progressive AI and Human Republic**
 
