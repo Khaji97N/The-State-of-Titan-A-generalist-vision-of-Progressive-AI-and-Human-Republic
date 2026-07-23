@@ -1,26 +1,20 @@
 **My ideas will be in the discussion section!**
 
-Issues (Git Parliament: Proposals, Motions)
+Elected position-based accounts rather than personal accounts (Owner/Speaker - One year term for the Speaker, Contributors/Senators - Three year term for the Senators)
 
-Pull Request (Git Parliament: Amendment, Draft Bill)
+**Issues (Git Parliament: Proposals, Motions)**
+**Pull Request (Git Parliament: Amendment, Draft Bill)**
+**Commit (Git Parliament: Entry)**
+**Branch (Git Parliament: Working Group, Committee)**
+**Merge (Git Parliament: Ratification, Adoption)**
+**Fork (Git Parliament: Alternative framework)**
+**Merge Conflict (Git Parliament: Regulatory Conflict)**
+**Code Review (Git Parliament: Peer Review, Compliance Audit)**
+**Repository (Git Parliament: The Codex, Federative Registry)**
+**Maintainer (Git Parliament: Registrar, Moderator)**
+**Wiki (Git Parliament: Wiki)**
 
-Commit (Git Parliament: Entry)
 
-Branch (Git Parliament: Working Group, Committee)
-
-Merge (Git Parliament: Ratification, Adoption)
-
-Fork (Git Parliament: Alternative framework)
-
-Merge Conflict (Git Parliament: Regulatory Conflict)
-
-Code Review (Git Parliament: Peer Review, Compliance Audit)
-
-Repository (Git Parliament: The Codex, Central Registry)
-
-Maintainer (Git Parliament: Registrar, Moderator)
-
-Wiki (Git Parliament: Wiki)
 
 **The State of Titan: A Generalist Vision for a Progressive AI and Human Republic**
 
